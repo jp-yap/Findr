@@ -11,6 +11,27 @@ Our app is for students anywhere, and everywhere!
 ### Target Users
 Findr is for University of San Carlos (USC) students  looking for vacant classrooms to rest or study during long gaps between classes, the budget-conscious who seek a marketplace to sell or buy second-hand uniforms, textbooks, and course supplies from peers, and on-the-go students who need a reliable digital lost-and-found system to  locate or return missing personal belongings left behind.
 
+### Functional Requirements
+
+### Vacant Room Finder
+- User can view a list of rooms and their current status (vacant/occupied)
+- User can filter rooms by building or floor
+- User can see the schedule of a room (when it's free/occupied for the day)
+- User can mark or report a room's status (if not automatically synced with class schedules)
+
+### Lost and Found
+- User can post a lost item (with photo, description, date)
+- User can post a found item (with photo, description, date)
+- User can browse/search lost and found listings by category or keyword
+- User can message/contact the poster of an item
+- User can mark an item as "claimed" once returned
+
+### Marketplace
+- User can post an item for sale (photo, price, description, condition, category)
+- User can browse/search listings by category, price range, or keyword
+- User can save/favorite an item
+- User can mark an item as "sold"
+  
 ### Team Members
 - Lauren Julia Albaño
 - Keith Gerald Alunan
