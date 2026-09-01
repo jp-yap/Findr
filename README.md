@@ -31,6 +31,7 @@ Findr is for University of San Carlos (USC) students  looking for vacant classro
 - User can browse/search listings by category, price range, or keyword
 - User can save/favorite an item
 - User can mark an item as "sold"
+- User can mark an item as "pending"
   
 ### Team Members
 - Lauren Julia Albaño
