@@ -1,12 +1,12 @@
 # Findr
 
-University life can be overwhelming, finding a quiet place to rest, tracking down lost belongings, or buying and selling things can take more time than it should.
+Problem Statement: Students find it time consuming to do tasks that are supposed to be simple and easy like finding empty and unoccupied rooms, or finding their lost and found items, or simply selling things that they don't use anymore.
 
-Meet Findr! Findr is an app designed to help students find and connect with each other. Findr helps students locate vacant rooms to hangout or rest in, a Lost and Found to help students reunite with their lost belongings, and a marketplace to help students easily buy and sell school supplies they need.
+Proposed Solution: Meet Findr! Findr is an app designed to help students find and connect with each other. Findr helps students locate vacant rooms to hangout or rest in, a Lost and Found to help students reunite with their lost belongings, and a marketplace to help students easily buy and sell school supplies they need.
 
 Our app is for students anywhere, and everywhere!
 
-Team Members
+Team Members:
 - Lauren Julia Albaño
 - Keith Gerald Alunan
 - Gabrielle S. Chua
