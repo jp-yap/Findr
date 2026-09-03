@@ -40,6 +40,7 @@ Findr is for University of San Carlos (USC) students  looking for vacant classro
 
 
 ### Feasibility Check
+Findr puts everything a USC student needs in one easy to use app, saving you from jumping between different group chats and walking all over campus. Instead of using Facebook for buying stuff or wandering down places to places just to find a quiet spot to study, Findr brings it all together in a community just for your school while keeping things fast and safe.
 
 
 ### The One Feature That Must Survive
