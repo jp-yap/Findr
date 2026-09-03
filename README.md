@@ -45,7 +45,7 @@ Findr is feasible to develop as a student-focused mobile or web application beca
 
 
 ### The One Feature That Must Survive
-
+If the budget were to be cut from ₱100,000 to ₱50,000, the vacant room finder should be the feature that should survive. This feature represents one of Findr’s strongest advantages because it aims to provide room availability information across the entire University of San Carlos rather than being limited to a single department like DCISM. Students frequently experience long vacant periods between classes and may spend unnecessary time walking around campus searching for an available classroom where they can study, rest, or work on academic tasks. Findr can make finding available spaces faster and more convenient. Prioritizing this feature would allow the project to retain a clear and useful purpose while keeping it focused and manageable within the ₱50,000 budget.
 
 ### Team Members
 - Lauren Julia Albaño
