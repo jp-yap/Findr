@@ -34,7 +34,7 @@ Findr is for University of San Carlos (USC) students  looking for vacant classro
 - User can mark an item as "pending"
 
 ### Existing Solutions
-
+Existing solutions include Tambay, a DCISM student web app that helps students check vacant rooms, but its coverage is currently limited to the Bunzel Building. The Carolinian Marketplace is another DCISM web app that provides students with a platform for buying and selling items. Students may also use Facebook, Messenger, and group chats to sell items or post about lost and found belongings, although these are not specifically designed for USC-related needs. These solutions address individual problems but remain separate from one another and have limited coverage or organization. Findr aims to combine vacant room finding, Lost and Found, and student marketplace features into one centralized platform for the USC community.
 
 ### What makes our app different?
 Findr puts everything a USC student needs in one easy to use app, saving you from jumping between different group chats and walking all over campus. Instead of using Facebook for buying stuff or wandering down places to places just to find a quiet spot to study, Findr brings it all together in a community just for your school while keeping things fast and safe.
