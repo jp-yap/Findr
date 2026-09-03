@@ -41,7 +41,7 @@ Findr puts everything a USC student needs in one easy to use app, saving you fro
 
 
 ### Feasibility Check
-
+Findr is feasible to develop as a student-focused mobile or web application because its core features—vacant room tracking, lost-and-found listings, and a student marketplace—can be implemented using existing technologies such as databases, user authentication, search and filtering, messaging, and photo uploads. The main challenge is obtaining reliable and up-to-date room availability data, which may require integration with USC class schedules or a system where students and authorized staff can report room status. The Lost and Found and Marketplace features are more straightforward to implement and can provide immediate value even without complex integrations. With proper user verification, reporting and moderation tools, and clear guidelines for transactions and item claims, Findr can be practical, scalable, and useful within the USC community. Starting with a limited version focused on one or two core features would reduce development complexity and allow the team to test user demand before expanding the platform.
 
 
 ### The One Feature That Must Survive
